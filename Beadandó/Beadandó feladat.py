@@ -72,7 +72,7 @@ def main():
     szalloda.add_szoba(EgyagyasSzoba("103"))
 
     for i in range(5):
-        szalloda.foglalas("101", datetime(2024, 3, i + 1))
+        szalloda.foglalas("101", datetime(2024, 4, i + 1))
 
     while True:
         print("\n1. Foglalás")
