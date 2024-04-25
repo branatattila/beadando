@@ -1,3 +1,3 @@
 nev: Bránát Attila
-szak: Gazdaság Informatika 
+szak: GDE Gazdaság Informatika
 neptun-kod: KCHL2G
