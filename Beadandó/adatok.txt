@@ -1,0 +1,3 @@
+nev: Bránát Attila
+szak: Gazdaság Informatika 
+neptun-kod: KCHL2G
